@@ -1,0 +1,25 @@
+h1{
+    font-family:"Playfair Display SC", serif;
+    text-transform: uppercase;
+    font-weight: 200;
+    letter-spacing:2px;
+    font-size: 60px;
+}
+
+.container-portada{
+    border:1px solid rgb(182, 182, 182);
+    height: 92vh;
+    margin:20px;
+}
+
+.btn-acceder{
+    background-color:black;
+    border:none;
+    text-decoration:none;
+    color:white;
+    padding:14px 50px;
+    border-radius: 30px;
+}
+.btn-acceder:hover{
+    opacity: 0.8;
+}

@@ -1,0 +1,16 @@
+.img-cocina{
+    width: 100%;
+    max-height:350px
+}
+
+.container-img::after{
+    content:'Recipes "La Central"';
+    text-align: center;
+    font-size: 30px;
+    color:white;
+    width: 90%;
+    position:relative;
+    bottom:100px;
+    padding:18px 0;
+    background-color:rgba(184, 180, 180, 0.568)
+}
